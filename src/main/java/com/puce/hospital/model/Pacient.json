@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "nombre": "Juan",
+      "apellido": "Pérez",
+      "edad": 30,
+      "peso": 70.5,
+      "altura": 1.75
+    },
+    {
+      "id": 2,
+      "nombre": "María",
+      "apellido": "Gómez",
+      "edad": 25,
+      "peso": 65.2,
+      "altura": 1.68
+    },
+    {
+      "id": 3,
+      "nombre": "Carlos",
+      "apellido": "Rodríguez",
+      "edad": 40,
+      "peso": 80.0,
+      "altura": 1.80
+    },
+    {
+      "id": 4,
+      "nombre": "Ana",
+      "apellido": "Martínez",
+      "edad": 35,
+      "peso": 55.8,
+      "altura": 1.60
+    },
+    {
+      "id": 5,
+      "nombre": "Pedro",
+      "apellido": "López",
+      "edad": 28,
+      "peso": 68.9,
+      "altura": 1.72
+    }
+  ]
